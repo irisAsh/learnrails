@@ -22,4 +22,5 @@
 
 .byebug_history
 
-/vender/bundle
+/vender/bundle/*
+
